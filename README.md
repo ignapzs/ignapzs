@@ -1,6 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ignapzs/ignapzs/master/wave.gif" width="30px">
-
-I'm Ignacio P. de Ziriza, a C.S. engineer from <img src="https://image.flaticon.com/icons/svg/323/323365.svg" width="13"/> Madrid, Spain, specialized in Web and Mobile technologies working as senior developer.
+[![Header](https://github.com/ignapzs/ignapzs/raw/master/banner.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 🔭 I’m currently working on a few ideas I had.
 - 🌱 I’m currently learning AWS and studying to become a Scrum Master.
