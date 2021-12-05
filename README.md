@@ -1,7 +1,7 @@
 [![Header](https://github.com/ignapzs/ignapzs/raw/master/banner.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 🔭 I’m currently working on a few ideas I had.
-- 🌱 I’m currently learning AWS and studying to become a Scrum Master.
+- 🌱 I’m currently learning Kafka and studying to become a Confluent Certified Developer.
 - 👯 I’m looking to collaborate on projects that make life easier and shape the world.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about whatever you want.
