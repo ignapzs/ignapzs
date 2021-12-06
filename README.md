@@ -70,9 +70,11 @@ console.log(['🥚','🐔'].sort()[0] + ' was first!')
   ![](https://img.shields.io/badge/Tools-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
 ### Currently learning
+  ![](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
   [![AWS](https://img.shields.io/badge/Cloud_Computing-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)](https://aws.amazon.com/)
 
 ### Want to learn
+  [![AWS](https://img.shields.io/badge/Cloud_Computing-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)](https://aws.amazon.com/)
   ![](https://img.shields.io/badge/Tools-Apache_Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2bbc8a)
   [![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)](https://github.com/features/actions)
   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
