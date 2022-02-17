@@ -29,7 +29,7 @@ console.log(['🥚','🐔'].sort()[0] + ' was first!')
 ### I code with
   ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
