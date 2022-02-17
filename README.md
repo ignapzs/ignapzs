@@ -55,6 +55,7 @@ console.log(['🥚','🐔'].sort()[0] + ' was first!')
 
 
 ### I've used
+  ![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
