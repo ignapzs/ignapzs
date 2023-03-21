@@ -92,5 +92,5 @@ console.log(['🥚','🐔'].sort()[0] + ' was first!')
 
 
 ## &#x1f4c8; GitHub Stats
-  ![Ignapzs's github stats](https://github-readme-stats.vercel.app/api?username=ignapzs&show_icons=true&theme=dark)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignapzs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+  ![Ignapzs's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ignapzs&show_icons=true&theme=dark)
+  ![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ignapzs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
